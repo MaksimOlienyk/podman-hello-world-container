@@ -1,6 +1,7 @@
 # podman-hello-world-container
 ## - Запустити базовий контейнер:
 podman run hello-world
+
 <img width="546" height="502" alt="image" src="https://github.com/user-attachments/assets/77cd7fb1-a3c9-4c07-807c-92608bc83498" />
 
 ## - Перевірити список контейнерів:
